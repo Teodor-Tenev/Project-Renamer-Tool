@@ -63,4 +63,5 @@ namespace ProjectRenamerTool.Services
                 return;
             }
         }
+    }
 }
